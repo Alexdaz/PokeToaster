@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calcular">Compute</string>
+    <string name="tiempo">Time</string>
+    <string name="app_name">PokeToaster</string>
+    <string name="calculando">Computing...</string>
+    <string name="tiempotranscu">Time elapsed:</string>
+    <string name="ceros">Enter the number of 0\'s</string>
+</resources>

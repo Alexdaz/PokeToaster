@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PokéToaster</string>
+    <string name="calcular">Calcular</string>
+    <string name="tiempo">Tiempo</string>
+    <string name="calculando">Calculando...</string>
+    <string name="tiempotranscu">Tiempo transcurrido:</string>
+    <string name="ceros">Ingrese la cantidad de 0\'s</string>
+
+    <string-array name="zeros">
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+</resources>
